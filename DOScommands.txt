@@ -1,0 +1,26 @@
+date-מעדכן את התאריך
+time-מעדכן שעה
+directory-פותח רשימת הקבצים בספרייה
+dir-מראה קבצים בספרייה ונפח 
+cd+name of directory-נכנס לספרייה ספציפית
+cls-סוגר את הספרייה
+md-make directoy
+tree-shows tree of the directoty
+help+name of command-list od commands
+remdir+/name of dir-deletes directory 
+
+
+
+FILE COMMANDS
+dir > (placeholder).txt- passes the dir into a txt file 
+copy (placeholder).txt c:directory location - copies into a txt file into a directory
+del + file name-delets file 
+move (placeholder).txt c:directory name - moves files
+type (placeholder).txt- shows content of file
+atrrib- shows file attributes 
+attribe+R (file name)-turns to read only 
+attribe+h (file name)- turns file into a hidden file
+attribe-h (file name)- turns hidden file into visable file
+dir *(spec)-shows all files that are the give spec
+dir (spec)*txt-shows all files that start with the given spec and are .txt
+dir ??- lets you use a filler into a spesific spot

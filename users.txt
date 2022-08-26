@@ -1,3 +1,0 @@
-var connectionsCount=10
-dispensersCount= 10
-master
